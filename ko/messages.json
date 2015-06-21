@@ -1062,7 +1062,7 @@
     "message": "스크립트 호스터에게 이슈 보고하기.\n(계정이 필요할 수도 있음)"
   },
   "Blacklist_Severity": {
-    "message": "엄격도로 번역하기"
+    "message": "엄격도로 차단하기"
   },
   "severity_1": {
     "message": "1 (가장 안전함)"
