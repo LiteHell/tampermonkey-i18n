@@ -1059,13 +1059,13 @@
     "message": "This script is blacklisted!"
   },
   "Report_an_issue_to_the_script_hoster_": {
-    "message": "Report an issue to the script hoster.\n(A user account may be required)"
+    "message": "스크립트 호스터에게 이슈 보고하기.\n(계정이 필요할 수도 있음)"
   },
   "Blacklist_Severity": {
-    "message": "Block From Severity Level"
+    "message": "엄격도로 번역하기"
   },
   "severity_1": {
-    "message": "1 (most secure)"
+    "message": "1 (가장 안전함)"
   },
   "severity_2": {
     "message": "2"
@@ -1092,16 +1092,16 @@
     "message": "9"
   },
   "severity_10": {
-    "message": "10 (least secure)"
+    "message": "10 (안전하지 않음)"
   },
   "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-    "message": "Your language is not supported?\nClick here to get intructions how to translate Tampermonkey?"
+    "message": "당신의 언어는 지원되지 않나요?\n여기를 눌러 어떻게 Tampermonkey를 번역하는 지 알아보세요."
   },
   "Default": {
-    "message": "Default"
+    "message": "기본값"
   },
   "Last_updated": {
-    "message": "Last updated"
+    "message": "최근에 업데이트됨"
   },
   "Ok": {
     "message": "Ok"
