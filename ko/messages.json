@@ -152,34 +152,34 @@
     "message": "제외"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-    "message": "A recheck of the GreaseMonkey/FF compatibility options may be required in order to run this script."
+    "message": "이 스크립트를 실행하려면 GreaseMonkey/FF 호환성 설정을 다시 확인해야 할 수도 있습니다."
   },
   "Author": {
-    "message": "Author"
+    "message": "만든이"
   },
   "Description": {
-    "message": "Description"
+    "message": "설명"
   },
   "Source": {
-    "message": "Source"
+    "message": "출처"
   },
   "Install": {
-    "message": "Install"
+    "message": "설치"
   },
   "Reinstall": {
-    "message": "Reinstall"
+    "message": "재설치"
   },
   "Modify": {
-    "message": "Modify"
+    "message": "수정"
   },
   "Downgrade": {
-    "message": "Downgrade"
+    "message": "다운그레이드"
   },
   "Update": {
-    "message": "Update"
+    "message": "업데이트"
   },
   "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-    "message": "$name$ $version$ is available.\nPlease re-start your browser to start the update!",
+    "message": "$name$ $version$이 사용 가능합니다.\n업데이트를 시작하려면 브라우저를 재시작해주세요!",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -190,10 +190,10 @@
     }
   },
   "Process_with_Chrome": {
-    "message": "Process with Chrome"
+    "message": "Chrome으로 처리"
   },
   "UpdateCheck_of_0name0_Url_0url0_failed_": {
-    "message": "UpdateCheck of '$name$' (Url: $url$) failed!",
+    "message": "'$name$' (Url: $url$) 업데이트 확인에 실패하였습니다!",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -204,7 +204,7 @@
     }
   },
   "No_update_found__sry_": {
-    "message": "No update found, sry!"
+    "message": "죄송하지만 아무 업데이트도 발견하지 못했습니다!"
   },
   "Unable_to_load_storage_due_to_empty_tabID_": {
     "message": "Unable to load storage due to empty tabID!"
