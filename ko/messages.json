@@ -33,31 +33,31 @@
     "message": "11"
   },
   "fatal_error": {
-    "message": "fatal error"
+    "message": "치명적인 오류"
   },
   "Please_consider_a_contribution": {
-    "message": "Please consider to contribute"
+    "message": "기여를 고려해주세요."
   },
   "I_contributed_already": {
-    "message": "I contributed already"
+    "message": "이미 기여했습니다."
   },
   "Remember_me_later": {
-    "message": "Remember me later"
+    "message": "나중에 알림"
   },
   "I_dont_want_to_contribute": {
-    "message": "I don't want to contribute"
+    "message": "기여하기 싫습니다"
   },
   "Thank_you_very_much_": {
-    "message": "Thank you very much!"
+    "message": "정말 감사합니다!"
   },
   "Invalid_UserScript__Sry_": {
-    "message": "Invalid UserScript. Sry!"
+    "message": "죄송하지만 유효하지 않은 유저스크립트입니다."
   },
   "Invalid_UserScript_name__Sry_": {
-    "message": "Invalid UserScript name. Sry!"
+    "message": "죄송하지만 유효하지 않은 유저스크립트 이름입니다."
   },
   "Script_name_0url0": {
-    "message": "Script name: $name$",
+    "message": "스크립트 이름: $name$",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -65,7 +65,7 @@
     }
   },
   "Downloaded_from_0url0": {
-    "message": "Downloaded from: $url$",
+    "message": "다운로드한 곳: $url$",
     "placeholders": {
       "url": {
         "content": "$1"
@@ -73,55 +73,55 @@
     }
   },
   "Please_double_check_the_native_script_import_settings__": {
-    "message": "Unable to load the UserScript!\n\nPlease double check the 'Native Script Import' settings."
+    "message": "유저스크립트를 읽을 수 없습니다!\n\n'네이티브 스크립트 불러오기' 설정을 더블클릭해주세요."
   },
   "Name": {
-    "message": "Name"
+    "message": "이름"
   },
   "Note": {
-    "message": "Note"
+    "message": "참고"
   },
   "Installed_Version_": {
-    "message": "Installed Version"
+    "message": "설치된 버전"
   },
   "Global_Settings": {
-    "message": "Global Settings"
+    "message": "전역 설정"
   },
   "Global_settings_import": {
-    "message": "Global settings import"
+    "message": "전역 설정 불러오기"
   },
   "This_will_overwrite_your_global_settings_": {
-    "message": "This will overwrite your global settings!"
+    "message": "전역 설정이 덮어씌워질 것입니다!"
   },
   "You_are_about_to_reinstall_a_UserScript_": {
-    "message": "UserScript re-installation"
+    "message": "유저스크립트 재설치"
   },
   "You_are_about_to_downgrade_a_UserScript": {
-    "message": "Attention! Userscript downgrade"
+    "message": "주의! 유저스크립트가 다운그레이드됩니다"
   },
   "The_downgraded_script_might_have_problems_to_read_its_stored_data_": {
-    "message": "The downgraded script might have problems to read its stored data!"
+    "message": "이 다운로드된 스크립트는 저장된 데이터를 읽는 데 문제가 생길 수 있습니다!"
   },
   "Malicious_scripts_can_violate_your_privacy_": {
-    "message": "Malicious scripts can violate your privacy and act on your behalf!\nYou should only install scripts from sources that you trust."
+    "message": "악의적인 스크립트는 당신의 사생활과 당신의 이익을 침해할 수 있습니다!\n신뢰할 수 있는 곳에서의 스크립트들만 설치해야 합니다."
   },
   "You_are_about_to_modify_a_UserScript_": {
-    "message": "UserScript modification"
+    "message": "유저스크립트 수정"
   },
   "You_are_about_to_update_a_UserScript_": {
-    "message": "UserScript update"
+    "message": "유저스크립트 업데이트"
   },
   "You_are_about_to_install_a_UserScript_": {
-    "message": "UserScript installation"
+    "message": "유저스크립트 설치"
   },
   "This_script_does_not_provide_any__include_information_": {
-    "message": "This script does not provide any @include information."
+    "message": "이 스크립트는 @include 정보를 제공하지 않습니다."
   },
   "All_script_settings_will_be_reset_": {
-    "message": "All script settings will be reset!"
+    "message": "모든 스크립트 설정들이 초기화 됩니다!"
   },
   "Tampermonkey_assumes_0urlAllHttp0_in_order_to_continue_": {
-    "message": "Tampermonkey assumes '$urlAllHttp$' in order to continue!",
+    "message": "계속하기 위해 '$urlAllHttp$'로 추정합니다.",
     "placeholders": {
       "urlAllHttp": {
         "content": "$1"
@@ -129,7 +129,7 @@
     }
   },
   "The_update_url_has_changed_from_0oldurl0_to__0newurl0": {
-    "message": "The update url has changed from:\n    '$oldurl$'\n    to:\n    '$newurl$'\n",
+    "message": "업데이트 url이\n'$oldurl$'에서\n'$newurl$'로 바뀌었습니다.",
     "placeholders": {
       "oldurl": {
         "content": "$1"
@@ -140,16 +140,16 @@
     }
   },
   "Attention_Can_not_display_all_includes_": {
-    "message": "Attention: The include list was shortened.\nPlease check it manually!"
+    "message": "경고: 포함 목록이 줄어들었습니다.\n직접 확인해주세요!"
   },
   "Attention_Can_not_display_all_excludes_": {
-    "message": "Attention: The exclude list was shortened.\nPlease check it manually!"
+    "message": "경고: 제외 목록이 줄어들었습니다.\n직접 확인해주세요!"
   },
   "Include_s__": {
-    "message": "Include(s)"
+    "message": "포함"
   },
   "Exclude_s__": {
-    "message": "Exclude(s)"
+    "message": "제외"
   },
   "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
     "message": "A recheck of the GreaseMonkey/FF compatibility options may be required in order to run this script."
