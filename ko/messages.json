@@ -302,58 +302,58 @@
     "message": "의견"
   },
   "Apply_compatibility_options_to_required_script_too": {
-    "message": "Apply compatibility options to @require scripts too"
+    "message": "@require로 불러들어진 스크립트에도 호환성 옵션을 적용하기"
   },
   "Fix_wrappedJSObject_property_access": {
-    "message": "Fix wrappedJSObject property access"
+    "message": "wrappedJSObject 속성 접근 고치기"
   },
   "Convert_CDATA_sections_into_a_chrome_compatible_format": {
-    "message": "Convert CDATA sections into a Chrome compatible format"
+    "message": "CDATA 섹션들을 크롬에 호환되는 형식으로 변환"
   },
   "Fix_for_var_in_statements": {
-    "message": "Fix 'for (var j in x)' statements"
+    "message": "'for (var j in x)' 명령문 고치기"
   },
   "Replace_for_each_statements": {
-    "message": "Replace 'for each' statements"
+    "message": "'for each' 명령문 바꾸기"
   },
   "Convert_Array_Assignements": {
-    "message": "Convert [blub, bla] = s.split(':') statements"
+    "message": "[blub, bla] = s.split(':') 명령문 변환하기"
   },
   "Add_toSource_function_to_Object_Prototype": {
-    "message": "Add compatibility functions to Object and Array"
+    "message": "객체와 배열에 호환용 함수 추가하기"
   },
   "Run_at": {
-    "message": "Run at"
+    "message": "실행 시점"
   },
   "Update_URL_": {
-    "message": "Update URL"
+    "message": "업데이트 URL"
   },
   "Save": {
-    "message": "Save"
+    "message": "저장"
   },
   "Cancel": {
-    "message": "Cancel"
+    "message": "취소"
   },
   "Search": {
-    "message": "Search"
+    "message": "검색"
   },
   "Replace": {
-    "message": "Replace"
+    "message": "찾아바꾸기"
   },
   "Jump_to_line": {
-    "message": "Jump to line"
+    "message": "줄 찾아가기"
   },
   "Insert_constructor": {
-    "message": "Insert constructor"
+    "message": "생성자 삽입"
   },
   "Auto_Indent_all": {
-    "message": "Auto-Indent all"
+    "message": "전체 자동정렬"
   },
   "There_are_unsaved_changed_": {
-    "message": "There are unsaved changes.\nDo you really want to close the editor?"
+    "message": "저장되지 않은 변경 사항들이 있습니다.\n정말로 편집기를 닫으시겠습니까?"
   },
   "Do_you_really_want_to_store_fixed_code_": {
-    "message": "The Option '$option$' is enabled!\n\nDo you really want to store the fixed source?",
+    "message": "옵션 '$option$'이 활성화되어 있습니다!\n\n정말로 고쳐진 소스를 저장하겠습니까?",
     "placeholders": {
       "option": {
         "content": "$1"
@@ -361,67 +361,67 @@
     }
   },
   "Really_reset_all_changes_": {
-    "message": "Really reset all changes?"
+    "message": "정말로 모든 설정들을 초기화할까요?"
   },
   "Please_wait___": {
-    "message": "Please wait..."
+    "message": "잠시만 기달려주세요..."
   },
   "Edit": {
-    "message": "Edit"
+    "message": "편집"
   },
   "Sites": {
-    "message": "Sites"
+    "message": "사이트(들)"
   },
   "Sort": {
-    "message": "Sort"
+    "message": "정렬"
   },
   "Actions": {
-    "message": "Actions"
+    "message": "동작들"
   },
   "Action": {
-    "message": "Action"
+    "message": "동작"
   },
   "Import": {
-    "message": "Import"
+    "message": "불러오기"
   },
   "Delete": {
-    "message": "Delete"
+    "message": "삭제"
   },
   "Features": {
-    "message": "Features"
+    "message": "기능들"
   },
   "This_script_stores_data": {
-    "message": "This script stores data to Tampermonkey."
+    "message": "이 스크립트는 Tampermonkey에 데이터를 보관합니다."
   },
   "This_script_has_access_to_https_pages": {
-    "message": "This item has access to https pages."
+    "message": "https 페이지에 접근합니다."
   },
   "One_or_more_compatibility_options_are_set": {
-    "message": "One or more compatibility options are set. You might want/should review them."
+    "message": "하나 이상의 호환성 옵션이 설정되어 있으며 검토하실 수 있습니다."
   },
   "This_script_has_no_grant_header_set_": {
-    "message": "This script has no @grant header set!"
+    "message": "이 스크립트는 @grant 헤더가 설정되어 있지 않습니다!"
   },
   "This_script_has_full_web_access": {
-    "message": "This script has full internet access."
+    "message": "이 스크립트는 인터넷에 완전히 접근합니다."
   },
   "This_is_a_system_script": {
-    "message": "This is a system script."
+    "message": "시스템 스크립트입니다."
   },
   "This_is_a_chrome_extension": {
-    "message": "This is a Chrome extension"
+    "message": "크롬 확장입니다"
   },
   "This_script_runs_in_Chrome_mode": {
-    "message": "This script runs in Chrome mode"
+    "message": "이 스크립트는 크롬 모드에서 실행됩니다"
   },
   "This_only_changes_the_user_agent_string": {
-    "message": "This item only changes the User-Agent for the includes webpages"
+    "message": "포함되는 웹 페이지에서 User-Agent만 바꿉니다."
   },
   "This_is_a_userscript": {
-    "message": "This is a userscript written in Javascript"
+    "message": "Javascript로 쓰여진 유저스크립트입니다."
   },
   "Really_import_0name0__": {
-    "message": "Do you really want to import the native script '$name$'?",
+    "message": "정말로 네이티브 스크립트 '$name$'을 불려오시겠습니까?",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -429,7 +429,7 @@
     }
   },
   "Really_delete_0name0__": {
-    "message": "Do you really want to delete '$name$'?",
+    "message": "정말로 '$name$'를 삭제할까요?",
     "placeholders": {
       "name": {
         "content": "$1"
