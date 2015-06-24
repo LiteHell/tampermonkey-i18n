@@ -437,19 +437,19 @@
     }
   },
   "This_script_has_access_to_webpage_scripts": {
-    "message": "This item has full access to the webpage."
+    "message": "웹페이지에 완전히 접근합니다."
   },
   "Utilities": {
     "message": "Utilities"
   },
   "This_script_uses_uW_gm_api_": {
-    "message": "This script uses a part of Greasemonkey 10 API (unsafeWindow.gmonkey)\nthat is not supported by Tampermonkey nor any other alternative script handler."
+    "message": "이 스크립트는 Greasemonkey 10 API (unsafeWindow.gmonkey)의 일부를 사용합니다.\n이는 Tampermonkey나 다른 스크립트 핸들러에서 지원되지 않습니다."
   },
   "some_secs": {
-    "message": "some"
+    "message": "몇"
   },
   "CONFLICT__This_script_was_modified_0t0_seconds_ago_": {
-    "message": "CONFLICT:\nThis script was modified by another tab $t$ second(s) ago!",
+    "message": "충돌:\n이 스크립트는 $t$ 초전에 다른 탭에서 편집되었습니다!",
     "placeholders": {
       "t": {
         "content": "$1"
@@ -457,19 +457,19 @@
     }
   },
   "Enabled": {
-    "message": "Enabled"
+    "message": "활성화됨"
   },
   "Disabled": {
-    "message": "Disabled"
+    "message": "비활성화됨"
   },
   "Unable_to_parse_this_": {
-    "message": "Unable to parse this! :("
+    "message": "읽을 수 없습니다! :("
   },
   "An_error_occured_during_import_": {
-    "message": "An error occured during import."
+    "message": "불러오는 도중에 오류가 발생했습니다."
   },
   "Export": {
-    "message": "Export"
+    "message": "내보내기"
   },
   "TextArea": {
     "message": "TextArea"
@@ -478,16 +478,16 @@
     "message": "Zip"
   },
   "Include_script_storage": {
-    "message": "Include script storage"
+    "message": "스크립트 저장소 포함"
   },
   "Include_TM_settings": {
-    "message": "Include Tampermonkey settings"
+    "message": "Tampermonkey 설정 포함"
   },
   "File": {
-    "message": "File"
+    "message": "파일"
   },
   "There_is_an_update_for_0name0_avaiable_": {
-    "message": "There is an update for '$name$' available. :)",
+    "message": "$name$'을 업데이트하실 수 있습니다 :)",
     "placeholders": {
       "name": {
         "content": "$1"
