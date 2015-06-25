@@ -495,10 +495,10 @@
     }
   },
   "Just_another_service_provided_by_your_friendly_script_updater_": {
-    "message": "Just another service provided by your friendly script updater"
+    "message": "그저 당신의 친근한 스크립트 업데이터에서 제공하는 다른 서비스"
   },
   "Updated_to__0version0": {
-    "message": "Updated to: $version$",
+    "message": "$version$으로 업데이트하였습니다.",
     "placeholders": {
       "version": {
         "content": "$1"
@@ -506,46 +506,46 @@
     }
   },
   "Click_here_to_see_the_recent_changes": {
-    "message": "Click here to see the recent changes"
+    "message": "최근의 변형 사항을 보려면 여기를 클릭하세요"
   },
   "General": {
-    "message": "General"
+    "message": "일반"
   },
   "Script_Update": {
-    "message": "Script Update"
+    "message": "스크립트 업데이트"
   },
   "Check_interval": {
-    "message": "Check Interval"
+    "message": "확인 시간"
   },
   "Always": {
-    "message": "Always"
+    "message": "항상"
   },
   "Never": {
-    "message": "Never"
+    "message": "안함"
   },
   "Every_Hour": {
-    "message": "Every Hour"
+    "message": "매시간"
   },
   "Every_6_Hours": {
-    "message": "Every 6 Hours"
+    "message": "매6시간"
   },
   "Every_12_Hour": {
-    "message": "Every 12 Hours"
+    "message": "매12시간"
   },
   "Every_Day": {
-    "message": "Every Day"
+    "message": "매일"
   },
   "Every_Week": {
-    "message": "Every Week"
+    "message": "매주"
   },
   "Every_Month": {
-    "message": "Every Month"
+    "message": "매월"
   },
   "Update_interval": {
-    "message": "Update Interval"
+    "message": "업데이트 시간"
   },
   "Editor": {
-    "message": "Editor"
+    "message": "편집기"
   },
   "Key_Mapping": {
     "message": "Key Mapping"
@@ -560,40 +560,40 @@
     "message": "Vim"
   },
   "Indentation_Width": {
-    "message": "Indentation Width"
+    "message": "정렬 폭"
   },
   "Indent_with": {
-    "message": "Indent with"
+    "message": "으로 정렬"
   },
   "Tabs": {
-    "message": "Tabs"
+    "message": "탭 문자"
   },
   "Spaces": {
-    "message": "Spaces"
+    "message": "여백"
   },
   "TabMode": {
-    "message": "TabMode"
+    "message": "탭모드"
   },
   "Classic": {
-    "message": "Classic"
+    "message": "구식"
   },
   "Indent": {
-    "message": "Indent"
+    "message": "정렬"
   },
   "Smart": {
-    "message": "Smart"
+    "message": "스마트"
   },
   "Reindent_on_typing": {
-    "message": "Re-indent on typing"
+    "message": "입력시 재정렬"
   },
   "Auto_reload_on_script_enabled": {
-    "message": "Auto reload pages"
+    "message": "자동으로 페이지 새로고침"
   },
   "Auto_reload_on_script_enabled_desc": {
-    "message": "Reload affected pages if a script was turned on or off"
+    "message": "스크립트가 꺼졌거나 켜진경우 영향을 미치는 페이지 새로고침"
   },
   "Anonymous_statistics": {
-    "message": "Anonymous statistics"
+    "message": "익명 통계"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
     "message": "Allow Tampermonkey to collect anonymous statistics via Google Analytics. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
