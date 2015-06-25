@@ -596,91 +596,91 @@
     "message": "익명 통계"
   },
   "Allow_Tampermonkey_to_collect_anonymous_statistics_via_Google_Analytics": {
-    "message": "Allow Tampermonkey to collect anonymous statistics via Google Analytics. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
+    "message": "Tampermonkey가 Google Analytics를 통해 익명으로 통계할 수 있도록 허용합니다. Tampermonkey의 향상과 개발에 집중할 곳을 결정하는 데 도움을 줍니다. 싫으시다면 그냥 비활성화하시면 됩니다."
   },
   "Dont_ask_me_for_simple_script_updates": {
-    "message": "Don't ask me for simple script updates"
+    "message": "간단한 스크립트 업데이트는 물어보지 말기"
   },
   "Hide_notification_after": {
-    "message": "Hide notification after"
+    "message": "후에 알림 숨기기"
   },
   "15_Seconds": {
-    "message": "15 Seconds"
+    "message": "15 초"
   },
   "30_Seconds": {
-    "message": "30 Seconds"
+    "message": "30 초"
   },
   "1_Minute": {
-    "message": "1 Minute"
+    "message": "1 분"
   },
   "5_Minutes": {
-    "message": "5 Minutes"
+    "message": "5 분"
   },
   "1_Hour": {
-    "message": "1 Hour"
+    "message": "1 시간"
   },
   "Enable_Editor": {
-    "message": "Enable enhanced editor"
+    "message": "향상된 편집기 활성화"
   },
   "Appearance": {
-    "message": "Appearance"
+    "message": "모양새"
   },
   "Security": {
-    "message": "Security"
+    "message": "보안"
   },
   "Downloads": {
-    "message": "Downloads"
+    "message": "다운로드"
   },
   "Download_Mode": {
-    "message": "Download Mode"
+    "message": "다운로드 모드"
   },
   "Browser_API": {
-    "message": "Browser API"
+    "message": "브라우저 API"
   },
   "The_Browser_API_mode_requires_a_special_permission_": {
-    "message": "The Browser API mode requires a special permission."
+    "message": "브라우저 API 모드는 특별한 권한이 필요합니다."
   },
   "Whitelisted_File_Extensions": {
-    "message": "Whitelisted File Extensions"
+    "message": "허용된 파일 확장자"
   },
   "Only_files_with_these_extensions_can_be_saved_to_the_harddisk_Be_careful_to_not_allow_file_extensions_that_represent_executables_at_your_operating_system_": {
-    "message": "Only files with these extensions can be saved to the harddisk.\nBe careful to not allow file extensions that represent executables at your operating system!"
+    "message": "이 확장자의 파일들만 하드디스크로 저장될 수 있습니다.\n운영 체제에서 실행될 수 있는 파일 확장자는 허용하지 않도록 주의하여 주십시오!"
   },
   "Your_whitelist_seems_to_include_executable_files_This_means_your_userscripts_may_download_malware_or_spyware_to_your_harddisk_": {
-    "message": "Your whitelist seems to include executable files!\nThis means your userscripts may download malware or spyware to your harddisk!!"
+    "message": "당신의 허용 목록은 실행될 수 있는 파일을 포함하는 것 같습니다!\n이경우 유저스크립트가 멀웨어나 스파이웨어를 하드디스크에 다운로드할 수 있습니다!!"
   },
   "Browser_API_Downloads": {
-    "message": "Browser API Downloads"
+    "message": "브라우저 API 다운로드(들)"
   },
   "Click_here_to_allow_TM_to_start_downloads": {
-    "message": "Click OK to allow Tampermonkey to start instant downloads."
+    "message": "Tampermonkey가 즉시 다운로드를 시작하도록 허용하려면 OK를 클릭하십시오."
   },
   "Page_Filter_Mode": {
-    "message": "Page Filter Mode"
+    "message": "페이지 필터 모드"
   },
   "Whitelisted_Pages": {
-    "message": "Whitelisted Pages"
+    "message": "허용된 페이지"
   },
   "Blacklisted_Pages": {
-    "message": "Blacklisted Pages"
+    "message": "금지된 페이지"
   },
   "Blacklist": {
-    "message": "Blacklist"
+    "message": "허용목록"
   },
   "Whitelist": {
-    "message": "Whitelist"
+    "message": "금지목록"
   },
   "Both": {
-    "message": "Both"
+    "message": "둘다"
   },
   "This_page_is_blacklisted_at_the_security_settings": {
-    "message": "Blacklisted by security settings"
+    "message": "보안 설정에 의해 금지됨"
   },
   "Update_Notification": {
-    "message": "Show TM update notification"
+    "message": "Tampermonkey 업데이트 알림 보여주기"
   },
   "Unable_to_load_script_from_url_0url0": {
-    "message": "Unable to load script from url: \n $url$",
+    "message": "다음 url에서 스크립트를 불러올 수 없습니다: \n $url$",
     "placeholders": {
       "url": {
         "content": "$1"
@@ -688,31 +688,31 @@
     }
   },
   "Click_here_to_install_it_": {
-    "message": "Click here to install it."
+    "message": "여기를 눌러 설치하세요."
   },
   "Check_disabled_scripts": {
-    "message": "Update disabled scripts"
+    "message": "비활성화된 스크립트 확인하기"
   },
   "Homepage": {
-    "message": "Homepage"
+    "message": "홈페이지"
   },
   "Last_Updated": {
-    "message": "Last Updated"
+    "message": "최근 업데이트된 시각"
   },
   "Version": {
-    "message": "Version"
+    "message": "버전"
   },
   "Type": {
-    "message": "Type"
+    "message": "유형"
   },
   "Check_for_Updates": {
-    "message": "Check for Updates"
+    "message": "업데이트 확인"
   },
   "Click_here_to_move_this_script": {
-    "message": "Click here to move this script"
+    "message": "여기를 눌러 이 스크립트 이동"
   },
   "overwritten_by_user": {
-    "message": "overwritten by user setting"
+    "message": "유저의 설정에 의해 덮어씌워짐"
   },
   "Report_a_bug": {
     "message": "Report a bug"
